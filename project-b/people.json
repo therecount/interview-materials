@@ -3,6 +3,7 @@
         "id": 0,
         "name": "Emelia Moody",
         "born": 1950,
+        "spouseId": 1,
         "hometown": "Boston"
     },
     {
@@ -18,6 +19,7 @@
         "born": 1984,
         "parentId1": 0,
         "parentId2": 1,
+        "spouseId": 4,
         "hometown": "Boston"
     },
     {
@@ -26,6 +28,7 @@
         "born": 1992,
         "parentId1": 0,
         "parentId2": 1,
+        "spouseId": 9,
         "hometown": "Boston"
     },
     {
@@ -41,6 +44,7 @@
         "born": 2017,
         "parentId1": 2,
         "parentId2": 4,
+        "spouseId": 14,
         "hometown": "Boston"
     },
     {
@@ -64,6 +68,7 @@
         "born": 2061,
         "parentId1": 2,
         "parentId2": 7,
+        "spouseId": 13,
         "hometown": "Boston"
     },
     {
@@ -79,6 +84,7 @@
         "born": 2028,
         "parentId1": 3,
         "parentId2": 9,
+        "spouseId": 17,
         "hometown": "Boston"
     },
     {
@@ -95,6 +101,7 @@
         "born": 2043,
         "parentId1": 3,
         "parentId2": 9,
+        "spouseId": 19,
         "hometown": "Boston"
     },
     {
@@ -117,6 +124,7 @@
         "born": 2057,
         "parentId1": 5,
         "parentId2": 14,
+        "spouseId": 16,
         "hometown": "Boston"
     },
     {
@@ -175,6 +183,7 @@
         "born": 1985,
         "parentId1": 21,
         "parentId2": 22,
+        "spouseId": 25,
         "hometown": "Philadelphia"
     },
     {
@@ -183,6 +192,7 @@
         "born": 1989,
         "parentId1": 21,
         "parentId2": 22,
+        "spouseId": 26,
         "hometown": "Philadelphia"
     },
     {
@@ -205,6 +215,7 @@
         "born": 2029,
         "parentId1": 24,
         "parentId2": 26,
+        "spouseId": 30,
         "hometown": "Philadelphia"
     },
     {
@@ -220,6 +231,7 @@
         "born": 2054,
         "parentId1": 24,
         "parentId2": 28,
+        "spouseId": 31,
         "hometown": "Philadelphia"
     },
     {
